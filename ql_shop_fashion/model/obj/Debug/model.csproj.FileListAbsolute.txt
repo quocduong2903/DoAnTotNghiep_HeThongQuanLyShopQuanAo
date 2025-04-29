@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\DOAN_CNPM_NC\web-app-clothing-stores-net-winform\ql_shop_fashion\model\bin\Debug\model.dll
+C:\Users\HP\Desktop\DOAN_CNPM_NC\web-app-clothing-stores-net-winform\ql_shop_fashion\model\bin\Debug\model.pdb
+C:\Users\HP\Desktop\DOAN_CNPM_NC\web-app-clothing-stores-net-winform\ql_shop_fashion\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DOAN_CNPM_NC\web-app-clothing-stores-net-winform\ql_shop_fashion\model\obj\Debug\model.dll
+C:\Users\HP\Desktop\DOAN_CNPM_NC\web-app-clothing-stores-net-winform\ql_shop_fashion\model\obj\Debug\model.pdb

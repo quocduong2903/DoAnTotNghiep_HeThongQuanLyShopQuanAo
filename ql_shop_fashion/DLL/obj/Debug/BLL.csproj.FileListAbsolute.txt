@@ -1,0 +1,600 @@
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\03\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Collections.Immutable.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Zstandard.Net.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BouncyCastle.Crypto.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Ubiety.Dns.Core.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Renci.SshNet.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Hash.xxHash.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Collections.Immutable.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.pdb
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Renci.SshNet.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Hash.xxHash.xml
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup1\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Collections.Immutable.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Zstandard.Net.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BouncyCastle.Crypto.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Ubiety.Dns.Core.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Renci.SshNet.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Hash.xxHash.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Collections.Immutable.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\MySql.Data.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.pdb
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Google.Protobuf.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Renci.SshNet.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Compression.LZ4.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\K4os.Hash.xxHash.xml
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup2\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\05\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup4\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\06\cntt236-app-clothing-winform\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Downloads\cntt236-app-clothing-winform-83e7897028af0c2f3d37b49ed435a3d64afdc766\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\11\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\12\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\13\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+D:\ĐÔ@@@\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\cntt236-app-clothing-winform (3)\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CNPMNC\15\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\16\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+E:\Cac mon hoc\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+F:\Github\backup19\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\CNPMNC\18\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Json.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.IO.Pipelines.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Encodings.Web.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Json.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.IO.Pipelines.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Encodings.Web.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb
+F:\Github\backup20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll.config
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\VietQRHelper.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\QRCoder.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\DTO.dll.config
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\CNPMNC\20\cntt236-app-clothing-winform\ql_shop_fashion\DLL\obj\Debug\BLL.pdb

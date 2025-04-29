@@ -1,0 +1,44 @@
+--------------------------------------------------------------HƯỚNG DẪN SỬ DỤNG PHẦN MỀM QUẢN LÝ SHOP THỜI TRANG-------------------------------------------------------------------
+1. Chuẩn bị cơ sở dữ liệu
+Để phần mềm hoạt động, bạn cần chạy file SQL để thiết lập cơ sở dữ liệu. Các bước thực hiện như sau:
+Mở công cụ SQL Server Management Studio (SSMS):
+
+Kết nối tới SQL Server của bạn bằng tài khoản sa hoặc tài khoản có quyền tương tự.
+Tạo cơ sở dữ liệu:
+
+Nếu chưa có cơ sở dữ liệu, hãy tạo một cơ sở dữ liệu mới bằng cách:
+Chuột phải vào Databases → Chọn New Database.
+Đặt tên cơ sở dữ liệu là QL_SHOP_FASHION hoặc tên bất kỳ mà bạn muốn.
+Chạy file SQL:
+
+Mở file QL_SHOP_FASHION_FINAL.sql trong SSMS:
+Vào menu File → Open → File và chọn file SQL của bạn.
+Chọn đúng cơ sở dữ liệu (ở thanh thả xuống bên trái) và nhấn Execute để chạy toàn bộ file.
+2. Thiết lập phần mềm
+Sau khi chạy thành công cơ sở dữ liệu, bạn cần cài đặt phần mềm. Hãy chú ý:
+Nếu phần mềm được lưu trong thư mục hệ thống như C:\Program Files hoặc C:\Windows, bạn cần chạy với quyền quản trị viên:
+
+Nhấp chuột phải vào file .exe → Chọn Run as Administrator.
+Nếu phần mềm được lưu trong thư mục thông thường (không thuộc thư mục hệ thống), bạn có thể chạy trực tiếp mà không cần quyền admin.
+
+3. Cấu hình phần mềm lần đầu
+Khi mở phần mềm lần đầu, sẽ xuất hiện thông báo yêu cầu cấu hình kết nối cơ sở dữ liệu. Thực hiện các bước sau:
+Nhập các thông tin kết nối:
+
+Server Name: Tên máy chủ SQL Server của bạn (VD: localhost, DESKTOP-12345\SQLEXPRESS).
+Database Name: Tên cơ sở dữ liệu đã tạo (VD: QL_SHOP_FASHION).
+Username: Tài khoản đăng nhập SQL Server (VD: sa).
+Password: Mật khẩu tương ứng với tài khoản.
+Nhấn Lưu để kiểm tra kết nối:
+
+Nếu thông tin chính xác, phần mềm sẽ chuyển sang giao diện đăng nhập.
+Nếu sai, sẽ có thông báo lỗi yêu cầu bạn cấu hình lại. Tiếp tục cho đến khi nhập đúng.
+4. Đăng nhập lần đầu
+Sau khi cấu hình thành công, bạn có thể đăng nhập bằng tài khoản quản trị viên mặc định:
+Tài khoản: admin
+Mật khẩu: admin
+5. Lưu ý khi sử dụng
+Dịch vụ SQL Server phải được bật: Đảm bảo SQL Server trên máy tính đang chạy trước khi mở phần mềm.
+Thư mục lưu phần mềm: Nếu lưu trong ổ hệ thống, bắt buộc phải chạy dưới quyền admin.
+Quyền cấu hình ban đầu: Người dùng phải nhập đúng thông tin kết nối để có thể truy cập được phần mềm.
+Chúc bạn sử dụng phần mềm thành công! 😊
